@@ -1,4 +1,7 @@
 # makefun-csv-speed
+[![make.fun](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/yoyo553/makefun-csv-speed/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/yoyo553/makefun-csv-speed/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
 
 An entry for make.fun's **csv-reader-speed-01-run-20261121** ("Read broken CSV files
 faster, 21 November 2026"): a faster drop-in for make.fun's own csv-reader 1.0.0.
